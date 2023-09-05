@@ -4,8 +4,11 @@ a complete responsive multi-pages e-book store website design template with shop
 
 the main feature of this website are:
 ✅ header with toggle menu effect using vanilla javascript.
+
 ✅ login and register form with multi role based user system using php mysql.
+
 ✅ admin dashboard using php mysql.
+
 ✅ admin product CRUD system using php mysql.
 ✅ admin order checkout system using php mysql
 ✅ admin user control system using php mysql.
