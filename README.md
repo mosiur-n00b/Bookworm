@@ -2,21 +2,19 @@
 
 a complete responsive multi-pages e-book store website design template with shopping cart, multi role based login system, checkout order form system using html css javascript php myql.
 
+a comprehensive e-book store website which aims to provide a seamless e-book shopping experience with user-friendly interfaces and efficient backend functionalities.
+
 the main feature of this website are:
 
-- header with toggle menu effect using vanilla javascript.
-- login and register form with multi role based user system using php mysql.
-- admin dashboard using php mysql.
-- admin product CRUD system using php mysql.
-- admin order checkout system using php mysql
-- admin user control system using php mysql.
-- admin message / contact box using php mysql.
-- home page.
-- about page with reviews and authors using css grid.
-- shop page with add to cart system.
-- contact us / messages page.
-- orders page.
-- search page using php mysql.
-- shopping cart page with CRUD system using php mysql.
-- checkout orders form page.
-- footer using css grid.
+Header with Toggle Menu Effect: Implemented using Vanilla JavaScript.
+Login and Registration Forms: Includes a multi-role based user system using PHP and MySQL.
+Admin Dashboard: Manages product CRUD operations, user controls, order checkouts, and contact messages using PHP and MySQL.
+Pages:
+Home: Showcases the main content of the site.
+About: Displays information about the store, including reviews and authors, organized with CSS grid.
+Shop: Allows browsing and purchasing e-books with an add-to-cart system.
+Contact Us/Messages: Handles user inquiries.
+Orders: Shows user order history.
+Search: Allows users to search for specific e-books.
+Shopping Cart: Manages items selected for purchase with CRUD operations using PHP and MySQL.
+Checkout Orders Form: Finalizes purchases.
