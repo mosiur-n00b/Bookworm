@@ -1,6 +1,7 @@
 # Bookworm-Store
 
-a comprehensive e-book store website which aims to provide a seamless e-book shopping experience with user-friendly interfaces and efficient backend functionalities.
+a comprehensive e-book store website which aims to provide a seamless e-book shopping experience 
+with user-friendly interfaces and efficient backend functionalities.
 
 - Header with Toggle Menu Effect: Implemented using Vanilla JavaScript.
 - Login and Registration Forms: Includes a multi-role based user system using PHP and MySQL.
